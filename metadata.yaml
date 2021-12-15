@@ -1,5 +1,8 @@
 _repo: Irritability-A-Physiological-Analysis-of-the-General-Effect-of-Stimuli-in-Living-Substance_66767
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66767-h/images/cover.jpg
 creator:
   author:
     agent_name: Verworn, Max
@@ -11,6 +14,8 @@ creator:
     - https://de.wikipedia.org/wiki/Max_Verworn
     - https://en.wikipedia.org/wiki/Max_Verworn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66767#Irritability-A-Physiological-Analysis-of-the-General-Effect-of-Stimuli-in-Living-Substance
 gutenberg_issued: '2021-11-19'
 identifiers:
   gutenberg: '66767'
